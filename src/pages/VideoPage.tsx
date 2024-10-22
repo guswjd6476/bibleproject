@@ -16,6 +16,7 @@ const VideoPage = () => {
                 <video
                     className="h-full max-h-screen mb-4"
                     controls
+                    autoPlay // 자동 재생
                     onEnded={handleVideoEnd}
                 >
                     <source

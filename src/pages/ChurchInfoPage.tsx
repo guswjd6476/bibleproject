@@ -101,9 +101,9 @@ const ChurchInfoPage = () => {
                             className="rounded-lg h-full w-full mb-3 shadow-md transition-transform duration-300 transform hover:scale-105"
                         />
                         <p className="text-gray-700 mb-6 leading-relaxed">
-                            신천지는 뜻을 하늘에서 이룬 것같이 오늘날 이 땅에 이루시고자 하는 하나님의 나라입니다.
+                            신천지는 뜻을 하늘에서 이룬 것같이 오늘날 이 땅에 이루신 하는 하나님의 나라입니다.
                             <br />
-                            신천지예수교 증거장막성전은 하나님의 뜻에 따라 <br />
+                            신천지는 하나님의 뜻에 따라 <br />
                             진리의 말씀과 보고들은 것을 증거하며, <br />
                             만국을 소성하기 위해 일하고 있습니다.
                             <br />

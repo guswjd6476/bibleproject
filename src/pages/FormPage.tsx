@@ -24,7 +24,6 @@ const FormPage = () => {
             });
 
             if (response.status === 200 && response.data.success) {
-                // 폼 제출 성공 시 "감사합니다!" 페이지로 이동
                 router.push('/ThankYouPage');
             } else {
                 alert('피드백 저장에 실패했습니다. 다시 시도해주세요.');
