@@ -37,14 +37,13 @@ const ChurchInfoPage = () => {
                             className="rounded-lg h-full w-full mb-3 shadow-md transition-transform duration-300 transform"
                         />
                         <p className="text-gray-700 mb-6 leading-relaxed">
-                            '대혐오의 시대'를 살아가는 우리,
+                            대혐오의 시대 를 살아가는 우리,
                             <br /> 싫음의 이유를 알지 못하며,
                             <br />
                             불충분한 근거로 뭉친 다수의 동의가
                             <br />
                             소수를 혐오하게 만드는 시대 속에서
-                            <br />
-                            "왜 정말 싫어하시나요?"
+                            <br />왜 정말 싫어하시나요?
                         </p>
                     </>
                 )}
@@ -109,7 +108,7 @@ const ChurchInfoPage = () => {
                             만국을 소성하기 위해 일하고 있습니다.
                             <br />
                             <br />
-                            "왜" 를 알지 못하는 혐오에서 벗어나
+                            왜? 를 알지 못하는 혐오에서 벗어나
                             <br />
                             <br />
                             하나님의 뜻을 실천히며,

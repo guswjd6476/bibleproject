@@ -13,7 +13,7 @@ const FormPage = () => {
         router.back(); // 이전 페이지(비디오 페이지)로 이동
     };
 
-    const handleSubmit = async (e: any) => {
+    const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         try {
             const response = await axios.post('/api/saveFeedback', {
